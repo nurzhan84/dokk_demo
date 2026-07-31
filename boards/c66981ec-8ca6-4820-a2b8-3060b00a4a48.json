@@ -1,0 +1,91 @@
+{
+  "type": "doka-board",
+  "version": 1,
+  "elements": [
+    {
+      "id": "ce129706-f90d-4180-b10d-156942479bb8",
+      "type": "image",
+      "x": 903.671875,
+      "y": 155.17270833333333,
+      "width": 280,
+      "height": 588.3733333333333,
+      "src": "images/bc732491acd5be22fc4101b601f49e428ea38fd73a271940730133b6fbb8d49b.png",
+      "color": "transparent"
+    },
+    {
+      "id": "aac81943-2e19-4585-8e21-90fbdd9f5055",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "endX": 824.8671875,
+      "endY": 190.60546875,
+      "startId": "ce129706-f90d-4180-b10d-156942479bb8",
+      "startAttachment": {
+        "x": 0.041671316964285714,
+        "y": 0.06075268607800036
+      },
+      "endLink": "TASKS_LIST"
+    },
+    {
+      "id": "a212e399-d2b6-401e-8826-f5a30228e619",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startX": 1043.88671875,
+      "startY": 61.21484375,
+      "endX": 1043.671875,
+      "endY": 155.17270833333333,
+      "endId": "ce129706-f90d-4180-b10d-156942479bb8",
+      "endPort": "top",
+      "startLink": "TAKS_FILTER"
+    },
+    {
+      "id": "07922779-fb2c-4d8a-8991-90e498ba5c41",
+      "type": "image",
+      "x": 1496.5535486236697,
+      "y": 150.9924654338039,
+      "width": 280,
+      "height": 1022.1866666666667,
+      "src": "images/e7cbf26d7056fc31f910beea3963a8bf58aab06c0fc85e75f5de42e3eeeb8bdb.png",
+      "color": "transparent"
+    },
+    {
+      "id": "d652a695-4c84-43c3-97b9-991872c4c224",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startX": 1503.4718111065492,
+      "startY": 204.72745462401625,
+      "endX": 1421.0763470826466,
+      "endY": 204.51602931310447,
+      "startId": "07922779-fb2c-4d8a-8991-90e498ba5c41",
+      "startAttachment": {
+        "x": 0.02470808029599831,
+        "y": 0.05256866572662432
+      },
+      "endLink": "TASKS_LIST"
+    },
+    {
+      "id": "7251f1a9-a6a7-4b0a-88f8-4b5ba19d84ce",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startX": 1636.4712760768455,
+      "startY": 56.66501495182204,
+      "endX": 1636.5535486236697,
+      "endY": 150.9924654338039,
+      "endId": "07922779-fb2c-4d8a-8991-90e498ba5c41",
+      "endPort": "top",
+      "startLink": "TASK_DETAILS"
+    }
+  ],
+  "camera": {
+    "x": -181.37939185972527,
+    "y": 53.266786675841445,
+    "zoom": 0.9053137922539106
+  }
+}

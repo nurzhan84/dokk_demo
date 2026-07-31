@@ -1,0 +1,52 @@
+{
+  "type": "doka-links",
+  "version": 1,
+  "links": {
+    "TAKS_FILTER": [
+      {
+        "boardId": "c66981ec-8ca6-4820-a2b8-3060b00a4a48",
+        "elementId": "a212e399-d2b6-401e-8826-f5a30228e619"
+      },
+      {
+        "boardId": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+        "elementId": "18241691-e4ed-4fcc-aa76-4d688fa1a5d4"
+      }
+    ],
+    "TASK_DETAILS": [
+      {
+        "boardId": "c66981ec-8ca6-4820-a2b8-3060b00a4a48",
+        "elementId": "7251f1a9-a6a7-4b0a-88f8-4b5ba19d84ce"
+      },
+      {
+        "boardId": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+        "elementId": "33baf539-6271-4d68-abbe-bd2a40e76ddc"
+      }
+    ],
+    "TASKS_LIST": [
+      {
+        "boardId": "c66981ec-8ca6-4820-a2b8-3060b00a4a48",
+        "elementId": "aac81943-2e19-4585-8e21-90fbdd9f5055"
+      },
+      {
+        "boardId": "c66981ec-8ca6-4820-a2b8-3060b00a4a48",
+        "elementId": "d652a695-4c84-43c3-97b9-991872c4c224"
+      },
+      {
+        "boardId": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+        "elementId": "73a50465-1c48-4a93-a790-7f263927e2a3"
+      }
+    ],
+    "NEW_TASK": [
+      {
+        "boardId": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+        "elementId": "783e7815-a9f2-41c0-9f7a-59ba7bbd63b5"
+      }
+    ],
+    "TASK_SEARCH": [
+      {
+        "boardId": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+        "elementId": "f4fe617a-dd37-4ce1-80c8-31f4a4341eac"
+      }
+    ]
+  }
+}

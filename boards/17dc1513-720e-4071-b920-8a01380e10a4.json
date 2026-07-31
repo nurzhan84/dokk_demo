@@ -1,0 +1,36 @@
+{
+  "type": "doka-board",
+  "version": 1,
+  "elements": [
+    {
+      "id": "681b0516-b76e-4d1a-a9c3-9ef5737047f0",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 776.6015625,
+      "y": 92.09765625,
+      "width": 503,
+      "height": 90,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 20,
+      "textAlign": "center",
+      "textAutoWidth": true,
+      "text": "**Full version history, built in**\nBrowse past versions of any board and restore them. It's just Git history — nothing to pay for, nothing to lose."
+    },
+    {
+      "id": "943e623e-ed18-4642-9384-09c64535ff5d",
+      "type": "image",
+      "x": 835.28125,
+      "y": 241.66796875,
+      "width": 360,
+      "height": 464,
+      "src": "images/fffc2354dfe30836374453471756513b40d3cc5673ae50aead1e14f88250c0f4.png",
+      "color": "transparent"
+    }
+  ],
+  "camera": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

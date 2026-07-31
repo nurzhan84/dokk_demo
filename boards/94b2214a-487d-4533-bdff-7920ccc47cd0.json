@@ -1,0 +1,36 @@
+{
+  "type": "doka-board",
+  "version": 1,
+  "elements": [
+    {
+      "id": "7cf4c90b-a74d-4ea0-8462-5eb44eca7121",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 808.4765625,
+      "y": 142.9140625,
+      "width": 406,
+      "height": 96,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 16,
+      "textAlign": "center",
+      "textAutoWidth": true,
+      "text": "**Organized documents**\nStructure work as document → chapters → boards. Cut, copy, and paste boards between chapters; rename documents in place."
+    },
+    {
+      "id": "de805f26-7630-4e75-bacd-681c90b940db",
+      "type": "image",
+      "x": 820.59375,
+      "y": 262.00390625,
+      "width": 381,
+      "height": 685,
+      "src": "images/2fd69ab9a9be53c4ef6f30ded350eb1f21ecb38c178a4753ec5303a606b1977f.png",
+      "color": "transparent"
+    }
+  ],
+  "camera": {
+    "x": 202.95429817499803,
+    "y": 13.876691858081472,
+    "zoom": 0.814636669501164
+  }
+}

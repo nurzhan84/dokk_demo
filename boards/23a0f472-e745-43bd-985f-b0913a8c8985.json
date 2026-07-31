@@ -1,0 +1,101 @@
+{
+  "type": "doka-board",
+  "version": 1,
+  "elements": [
+    {
+      "id": "d0c92d14-0b66-4b2e-8f4c-d667b0c79f64",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 667.390625,
+      "y": 481.33984375,
+      "width": 761.92578125,
+      "height": 410,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 16,
+      "textAlign": "left",
+      "textAutoWidth": false,
+      "text": "\n```\n{\n  \"mcpServers\": {\n    \"dokk\": {\n      \"command\": \"node\",\n      \"args\": [\"/absolute/path/to/dokk/server/mcp/bin/dokk-mcp-stdio.js\"],\n      \"env\": {\n        \"DOKK_COLLAB_URL\": \"ws://localhost:8787\",\n        \"DOKK_BOARD_ID\": \"<board id from the SPA URL>\",\n        \"DOKK_INVITE_TOKEN\": \"<invite token from the Share dialog>\",\n        \"DOKK_AGENT_NAME\": \"Claude\",\n        \"DOKK_AUTOCONNECT\": \"1\"\n      }\n    }\n  }\n}\n```"
+    },
+    {
+      "id": "bd1ecf80-b056-4a1e-ad80-14627593dab9",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 671.80859375,
+      "y": 458.12109375,
+      "width": 221.17578125,
+      "height": 29,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 20,
+      "textAlign": "center",
+      "textAutoWidth": false,
+      "text": "**Claude Desktop config**"
+    },
+    {
+      "id": "89a03c6c-31cb-4842-9f83-5d3315717c23",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 660.921875,
+      "y": 360.6875,
+      "width": 316.82421875,
+      "height": 24,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 16,
+      "textAlign": "center",
+      "textAutoWidth": false,
+      "text": "https://github.com/nurzhan84/dokk_mcp"
+    },
+    {
+      "id": "a52baf25-87b2-4101-8771-39ae50e4ca19",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 665.703125,
+      "y": 304.57421875,
+      "width": 273.55078125,
+      "height": 29,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 20,
+      "textAlign": "center",
+      "textAutoWidth": false,
+      "text": "**Run Dokk MCP server locally**"
+    },
+    {
+      "id": "88f761e7-64e5-4892-bd35-a3fafc1cc3a6",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 666.337890625,
+      "y": 976.796875,
+      "width": 761.92578125,
+      "height": 290,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 16,
+      "textAlign": "left",
+      "textAutoWidth": false,
+      "text": "\n```\n[mcp_servers.dokk]\ncommand = \"node\"\nargs    = [\"/absolute/path/to/dokk/server/mcp/bin/dokk-mcp-stdio.js\"]\n\n[mcp_servers.dokk.env]\nDOKK_COLLAB_URL   = \"ws://localhost:8787\"\nDOKK_BOARD_ID     = \"<board id from the SPA URL>\"\nDOKK_INVITE_TOKEN = \"<invite token from the Share dialog>\"\nDOKK_AGENT_NAME   = \"Codex\"\nDOKK_AUTOCONNECT  = \"1\"\n```"
+    },
+    {
+      "id": "aee26b8d-a28c-4706-ab1a-6d9b427d6795",
+      "type": "shape",
+      "shapeType": "text",
+      "x": 673.841796875,
+      "y": 950.35546875,
+      "width": 173.59765625,
+      "height": 30,
+      "color": "transparent",
+      "textColor": "#111827",
+      "fontSize": 20,
+      "textAlign": "center",
+      "textAutoWidth": false,
+      "text": "**Codex CLI config**"
+    }
+  ],
+  "camera": {
+    "x": 102,
+    "y": -557,
+    "zoom": 1
+  }
+}

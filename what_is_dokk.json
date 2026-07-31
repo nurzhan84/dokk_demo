@@ -1,0 +1,86 @@
+{
+  "type": "doka-document",
+  "version": 1,
+  "items": [
+    {
+      "id": "11ef8f48-d21e-4b22-90c0-e933150ba3ce",
+      "title": "What is Dokk?",
+      "kind": "document",
+      "children": [
+        {
+          "id": "68f6e552-ac04-41ef-a5cc-f5dbc94cc195",
+          "title": "Problems we solve",
+          "kind": "chapter",
+          "children": [
+            {
+              "id": "99e3e002-53a3-47fb-b4e2-2d3bd02dd903",
+              "title": "Problems",
+              "kind": "board"
+            }
+          ]
+        },
+        {
+          "id": "6c9e4d5b-a3b3-4dc7-9356-9806cfe14870",
+          "title": "Features",
+          "kind": "chapter",
+          "children": [
+            {
+              "id": "5ad61980-17e3-4719-87c0-93fd12af5198",
+              "title": "Git Storage",
+              "kind": "board"
+            },
+            {
+              "id": "17dc1513-720e-4071-b920-8a01380e10a4",
+              "title": "Versions history",
+              "kind": "board"
+            },
+            {
+              "id": "dad0be04-f3a6-491e-9b18-4ad45d6585f7",
+              "title": "Infinite Canvas",
+              "kind": "board"
+            },
+            {
+              "id": "94b2214a-487d-4533-bdff-7920ccc47cd0",
+              "title": "Documents organization",
+              "kind": "board"
+            },
+            {
+              "id": "98d462a7-4cb7-463a-84c3-ac6856b86b75",
+              "title": "Net Labeling",
+              "kind": "board"
+            },
+            {
+              "id": "c66981ec-8ca6-4820-a2b8-3060b00a4a48",
+              "title": "Net Labeling 2",
+              "kind": "board"
+            }
+          ]
+        },
+        {
+          "id": "d94aeed0-98cc-4509-aff2-e7ceb63ef3c6",
+          "title": "Collab",
+          "kind": "chapter",
+          "children": [
+            {
+              "id": "04378a87-7f5c-4b6c-9d4e-e201a9cdd771",
+              "title": "Collab",
+              "kind": "board"
+            }
+          ]
+        },
+        {
+          "id": "90c84ebc-b6f0-481c-a9be-a42b51e176ac",
+          "title": "MCP",
+          "kind": "chapter",
+          "children": [
+            {
+              "id": "23a0f472-e745-43bd-985f-b0913a8c8985",
+              "title": "MCP",
+              "kind": "board"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
