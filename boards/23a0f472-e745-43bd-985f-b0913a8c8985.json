@@ -36,13 +36,13 @@
       "id": "89a03c6c-31cb-4842-9f83-5d3315717c23",
       "type": "shape",
       "shapeType": "text",
-      "x": 660.921875,
-      "y": 360.6875,
-      "width": 316.82421875,
-      "height": 24,
+      "x": 659.7730525684613,
+      "y": 366.2018476713863,
+      "width": 521.9211898077598,
+      "height": 41,
       "color": "transparent",
       "textColor": "#111827",
-      "fontSize": 16,
+      "fontSize": 27,
       "textAlign": "center",
       "textAutoWidth": false,
       "text": "https://github.com/nurzhan84/dokk_mcp"
@@ -94,8 +94,8 @@
     }
   ],
   "camera": {
-    "x": 102,
-    "y": -557,
-    "zoom": 1
+    "zoom": 0.8500552158369077,
+    "x": 218.54477269591905,
+    "y": 2.8471190351872337
   }
 }
