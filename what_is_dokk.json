@@ -77,6 +77,11 @@
               "id": "23a0f472-e745-43bd-985f-b0913a8c8985",
               "title": "MCP",
               "kind": "board"
+            },
+            {
+              "id": "6b16e4d3-caf2-4b79-b498-ba4a6748f4d6",
+              "title": "MCP demo",
+              "kind": "board"
             }
           ]
         }
