@@ -749,11 +749,21 @@
       "textAlign": "center",
       "textAutoWidth": true,
       "text": "**Our tools**"
+    },
+    {
+      "id": "82197795-b6a1-4cc8-9338-d210188f4b7d",
+      "type": "image",
+      "x": 680.76953125,
+      "y": 592.203125,
+      "width": 673,
+      "height": 94,
+      "src": "images/32b846b419b9995853ff45683c17b532d9846d6564cfc35f4f4b81e02be58646.png",
+      "color": "transparent"
     }
   ],
   "camera": {
-    "x": -37,
-    "y": 190,
-    "zoom": 1
+    "zoom": 1,
+    "x": -55.05859375,
+    "y": 126.13671875
   }
 }
