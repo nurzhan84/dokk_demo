@@ -4,6 +4,11 @@
   "entries": [
     {
       "sha": "",
+      "date": "2026-08-03T10:35:57.483Z",
+      "message": "OAuth feature added"
+    },
+    {
+      "sha": "b59449fd009ea672cad0c102a97534db57c741f1",
       "date": "2026-07-31T09:37:03.344Z",
       "message": "git storage"
     }
