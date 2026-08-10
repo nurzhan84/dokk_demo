@@ -9,18 +9,28 @@
       "x": 445.03350270993064,
       "y": 130.7734375,
       "width": 1132.0072133301387,
-      "height": 690,
+      "height": 660,
       "color": "transparent",
       "textColor": "#000000",
       "fontSize": 20,
       "textAlign": "left",
       "textAutoWidth": false,
       "text": "**Problem 1 — Diagrams drift away from the code**\nArchitecture diagrams live in a separate tool, so they rot the moment the code changes. Nobody trusts a six-month-old diagram.\n\n**Problem 2 — Your diagrams are trapped in someone else's cloud**\nMost whiteboard tools store your work on their servers, in their format. Leave the tool and you lose your diagrams.\n\n**Problem 3 — No real version history**\n\"What did this diagram look like last release?\" Most tools can't answer that — or hide it behind a paid tier.\n\n**Problem 4 — Diagrams aren't part of code review**\nYou can't diff or review a diagram in a pull request the way you review code. Visual decisions happen off to the side, undocumented.\n\n**Problem 5 — Collaboration means buying seats for everyone**\nInviting a teammate or a client to look at a board often means another paid account and another login.\n\n**Problem 6 — AI can't touch your visual work**\nLLMs are great at reasoning about systems, but they can't draw the diagram on your board — you copy-paste text and redraw by hand.\n\n**Problem 7 — Privacy and control**\nFor sensitive architecture, you don't want your diagrams sitting in a third-party SaaS you don't control."
+    },
+    {
+      "id": "80070077-4a97-4c36-991b-231c83e3d3b3",
+      "type": "image",
+      "x": 445.17454283041036,
+      "y": -542.895150130392,
+      "width": 800,
+      "height": 608.1112398609503,
+      "src": "images/05ce094d1f7ba9906ea8c373fa7aab801bbb5a67b28cbb9cfbbc6e93843a95c1.webp",
+      "color": "transparent"
     }
   ],
   "camera": {
-    "zoom": 1,
-    "x": -7.5546875,
-    "y": -89.2734375
+    "zoom": 0.9596376811594203,
+    "x": 268.7706927932518,
+    "y": 601.9298816802536
   }
 }
