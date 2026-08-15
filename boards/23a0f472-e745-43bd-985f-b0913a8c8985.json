@@ -93,16 +93,6 @@
       "text": "**Codex CLI config**"
     },
     {
-      "id": "0312c786-9b8f-41ea-b33b-48f777227ee2",
-      "type": "image",
-      "x": 1881.1615814588617,
-      "y": 540.0242817174582,
-      "width": 800,
-      "height": 294.6550048590865,
-      "src": "images/8cc6a6f5ad4d3407e2df69a25d60ba8726da151462a691ede9c4e0db8ac85d21.png",
-      "color": "transparent"
-    },
-    {
       "id": "cfde5b36-6b62-4a0a-88fb-6b38b0716692",
       "type": "shape",
       "shapeType": "text",
@@ -1585,11 +1575,21 @@
       "textAlign": "center",
       "textAutoWidth": false,
       "text": "create invite link"
+    },
+    {
+      "id": "e0a5d23d-ce76-4417-9c50-96f021a1eeee",
+      "type": "image",
+      "x": 1848.4018232732594,
+      "y": 522.6385341668661,
+      "width": 800,
+      "height": 375.5671902268761,
+      "src": "images/f031e4eb85b748b0c290ab66fc1f9eb0809321224798e947c0907a663a902cf5.png",
+      "color": "transparent"
     }
   ],
   "camera": {
-    "zoom": 0.43639433361930174,
-    "x": 20.676430052613114,
-    "y": -103.06370090607527
+    "zoom": 1.2819296711535588,
+    "x": -1686.6029653206174,
+    "y": -600.0944205815957
   }
 }
