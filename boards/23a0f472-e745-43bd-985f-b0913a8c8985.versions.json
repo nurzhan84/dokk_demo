@@ -4,6 +4,11 @@
   "entries": [
     {
       "sha": "",
+      "date": "2026-08-15T17:54:21.492Z",
+      "message": "mcp update"
+    },
+    {
+      "sha": "e5ff731c23cfb576103529b164d2da6b37ebca33",
       "date": "2026-08-03T11:20:24.146Z",
       "message": "mcp"
     },
