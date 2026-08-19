@@ -2275,23 +2275,6 @@
       "endLink": "TAKS_FILTER"
     },
     {
-      "id": "33baf539-6271-4d68-abbe-bd2a40e76ddc",
-      "type": "arrow",
-      "color": "#1976d2",
-      "lineWidth": 2,
-      "lineStyle": "solid",
-      "startX": 1488.4335755034235,
-      "startY": 509.1273061487564,
-      "endX": 1603.1457143746247,
-      "endY": 509.5090387919754,
-      "startId": "997833d1-2ff1-4988-8b12-11e99eeeccac",
-      "startAttachment": {
-        "x": 0.9334254816731897,
-        "y": 0.30389395949632186
-      },
-      "endLink": "TASK_DETAILS"
-    },
-    {
       "id": "783e7815-a9f2-41c0-9f7a-59ba7bbd63b5",
       "type": "arrow",
       "color": "#1976d2",
@@ -3498,23 +3481,102 @@
       "text": "CTRL/CMND Click net label"
     },
     {
-      "id": "73a50465-1c48-4a93-a790-7f263927e2a3",
+      "id": "16f36952-88b1-4dda-9cc4-64004b0ae229",
+      "type": "shape",
+      "shapeType": "info",
+      "x": 1559.0535584474778,
+      "y": 493.42803230521696,
+      "width": 32,
+      "height": 32,
+      "color": "#2563eb",
+      "textColor": "#ffffff",
+      "fontSize": 16,
+      "textAlign": "left",
+      "textAutoWidth": false,
+      "text": "",
+      "infoText": "server requests info\n\n**GET /tasks/{task_id}**\n\nresponse body :\n```\n{\"id\":\"some_id\"}\n```"
+    },
+    {
+      "id": "5a199e96-e5c9-4cc5-835f-b8df5a5bd687",
       "type": "arrow",
       "color": "#1976d2",
       "lineWidth": 2,
       "lineStyle": "solid",
-      "startX": 1150.4202590305788,
-      "startY": 628.0616004347539,
-      "endX": 1227.0744406349304,
-      "endY": 628.0250911325331,
+      "startId": "997833d1-2ff1-4988-8b12-11e99eeeccac",
+      "startAttachment": {
+        "x": 0.9334254816731897,
+        "y": 0.30389395949632186
+      },
+      "startX": 1488.4335755034235,
+      "startY": 509.1273061487564,
+      "endId": "16f36952-88b1-4dda-9cc4-64004b0ae229",
+      "endPort": "left",
+      "endX": 1559.0535584474778,
+      "endY": 509.42803230521696
+    },
+    {
+      "id": "1809c913-99e7-4e95-8db6-64589e062d1d",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startId": "16f36952-88b1-4dda-9cc4-64004b0ae229",
+      "startPort": "right",
+      "startX": 1591.0535584474778,
+      "startY": 509.42803230521696,
+      "endX": 1661.6735413915324,
+      "endY": 509.7287584616775,
+      "endLink": "TASK_DETAILS"
+    },
+    {
+      "id": "9b85fb7b-fcba-4e1b-9f0f-4e90650ad5e6",
+      "type": "shape",
+      "shapeType": "info",
+      "x": 1135.079158958194,
+      "y": 612.007641337317,
+      "width": 32,
+      "height": 32,
+      "color": "#2563eb",
+      "textColor": "#ffffff",
+      "fontSize": 16,
+      "textAlign": "center",
+      "textAutoWidth": false,
+      "text": "",
+      "infoText": "task list getting requests info here"
+    },
+    {
+      "id": "b71139a0-ad79-47a9-914b-8848c0daffe1",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startX": 1075.0838772814577,
+      "startY": 627.9901915421008,
+      "startLink": "TASKS_LIST",
+      "endId": "9b85fb7b-fcba-4e1b-9f0f-4e90650ad5e6",
+      "endPort": "left",
+      "endX": 1135.079158958194,
+      "endY": 628.007641337317
+    },
+    {
+      "id": "e88fd779-547e-44db-bfa6-6a2ebba56db2",
+      "type": "arrow",
+      "color": "#1976d2",
+      "lineWidth": 2,
+      "lineStyle": "solid",
+      "startId": "9b85fb7b-fcba-4e1b-9f0f-4e90650ad5e6",
+      "startPort": "right",
+      "startX": 1167.079158958194,
+      "startY": 628.007641337317,
       "endId": "997833d1-2ff1-4988-8b12-11e99eeeccac",
       "endPort": "left",
-      "startLink": "TASKS_LIST"
+      "endX": 1227.0744406349304,
+      "endY": 628.0250911325331
     }
   ],
   "camera": {
-    "x": 94.55052355991552,
-    "y": -83.51857192519105,
-    "zoom": 0.9377859138617691
+    "zoom": 0.7111334192874872,
+    "x": 195.48172967606342,
+    "y": -7.612356067684914
   }
 }
